@@ -1,0 +1,13 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap'); */
+
+@import url("https://fonts.googleapis.com/css2?family=Outfit&family=PT+Mono&display=swap");
+
+body {
+  margin: 0;
+  font-family: "PT Mono", monospace !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-image: linear-gradient(to left, rgb(40, 0, 92), rgb(8, 18, 73));*/
+  background: radial-gradient(circle at center,#000,#7c2b2b);
+  /* background: linear-gradient(90deg,#000,#7c2b2b); */
+}
