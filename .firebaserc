@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "maxdu-portfoliowebsite",
+    "dentalmirror": "dentalmirror-a9400",
+    "website": "maxdu-portfoliowebsite",
+    "diary": "diary-3c977",
+    "rf-fighter": "rf-fighter",
+    "transitMate": "transitmate-abd92"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
