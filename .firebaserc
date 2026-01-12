@@ -1,13 +1,20 @@
 {
   "projects": {
-    "default": "maxdu-portfoliowebsite",
-    "dentalmirror": "dentalmirror-a9400",
-    "website": "maxdu-portfoliowebsite",
-    "diary": "diary-3c977",
-    "rf-fighter": "rf-fighter",
-    "transitMate": "transitmate-abd92"
+    "default": "maxdu-portfoliowebsite"
   },
-  "targets": {},
+  "targets": {
+    "maxdu-portfoliowebsite": {
+      "hosting": {
+        "site": "maxdu-portfoliowebsite",
+        "public": "build",
+        "ignore": [
+          "firebase.json",
+          "**/.*",
+          "**/node_modules/**"
+        ]
+      }
+    }
+  },
   "etags": {},
   "dataconnectEmulatorConfig": {}
 }
